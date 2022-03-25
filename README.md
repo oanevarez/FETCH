@@ -10,7 +10,6 @@ and only items that were not NULL or EMPTY.
 # Configurations
 IDE: Android Studio
 Emulator: Pixel 5 API 30
-JAVA project
 Android compile SDK 31 : minSdk 26
 
 # Image Shown
