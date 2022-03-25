@@ -1,5 +1,5 @@
 # FETCH REWARDS
-Coding Excercise
+Coding Exercise
 
 # JSON
 Displayed all items by "listID"
