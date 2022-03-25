@@ -13,4 +13,4 @@ Emulator: Pixel 5 API 30
 JAVA project
 Android compile SDK 31 : minSdk 26
 
-![alt text](https://github.com/[oanevarez]/[FETCH]/blob/[showcase]/.jpg?raw=true)
+![alt text]https://github.com/oanevarez/FETCH/blob/main/showcase.jpg/.jpg?raw=true)
