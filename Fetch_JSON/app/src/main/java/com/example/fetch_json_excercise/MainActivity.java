@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
         recyclerView.setAdapter(adaptery);
     }
 
-    
+
     public class GetData extends AsyncTask<Integer, Integer, String> {
 
 
